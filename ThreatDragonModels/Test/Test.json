@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Test",
+    "description": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  },
+  "location": {
+    "organisation": "tbearden",
+    "repo": "tb-tdm",
+    "branch": "master",
+    "model": "Test"
+  }
+}
